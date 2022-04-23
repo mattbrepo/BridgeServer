@@ -6,7 +6,7 @@ Network Bridge Server.
 **Start: 2009**
 
 ## Why
-I needed to eavesdrop client-server communication to figure out a non-documented protocol. This tool helped to Reverse engineering a couple of protocols back in the days.
+I needed to eavesdrop TCP client-server communication to figure out undocumented protocols. This tool helped me to reverse engineered a couple of network protocols in the past.
 
 ## Example
 
